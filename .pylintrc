@@ -1,0 +1,7 @@
+[MAIN]
+# pygame's constants (K_LEFT, QUIT, KEYDOWN, ...) and functions (init, quit)
+# live in compiled C extension modules. Pylint does not import C extensions by
+# default, so it reported them as E1101 (no-member) false positives. Allowing
+# pygame to be loaded lets Pylint see the real members instead of silencing
+# the check.
+extension-pkg-allow-list=pygame

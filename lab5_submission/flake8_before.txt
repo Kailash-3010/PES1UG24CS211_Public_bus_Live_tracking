@@ -1,0 +1,116 @@
+game.py:9:1: E302 expected 2 blank lines, found 1
+game.py:13:29: E231 missing whitespace after ','
+game.py:14:29: E231 missing whitespace after ','
+game.py:18:37: E231 missing whitespace after ','
+game.py:45:1: E305 expected 2 blank lines after class or function definition, found 1
+game.py:46:14: E231 missing whitespace after ','
+game.py:46:17: E231 missing whitespace after ','
+game.py:47:16: E231 missing whitespace after ','
+game.py:47:20: E231 missing whitespace after ','
+game.py:48:16: E231 missing whitespace after ','
+game.py:48:20: E231 missing whitespace after ','
+game.py:49:14: E231 missing whitespace after ','
+game.py:49:18: E231 missing whitespace after ','
+game.py:52:1: E302 expected 2 blank lines, found 1
+game.py:55:25: E231 missing whitespace after ','
+game.py:55:29: E231 missing whitespace after ','
+game.py:59:11: E225 missing whitespace around operator
+game.py:59:14: E225 missing whitespace around operator
+game.py:60:51: E701 multiple statements on one line (colon)
+game.py:60:55: E225 missing whitespace around operator
+game.py:61:52: E701 multiple statements on one line (colon)
+game.py:61:56: E225 missing whitespace around operator
+game.py:62:49: E701 multiple statements on one line (colon)
+game.py:62:53: E225 missing whitespace around operator
+game.py:63:51: E701 multiple statements on one line (colon)
+game.py:63:55: E225 missing whitespace around operator
+game.py:64:26: E231 missing whitespace after ','
+game.py:64:28: E231 missing whitespace after ','
+game.py:64:33: E231 missing whitespace after ','
+game.py:64:38: E231 missing whitespace after ','
+game.py:65:25: E231 missing whitespace after ','
+game.py:65:28: E231 missing whitespace after ','
+game.py:65:33: E231 missing whitespace after ','
+game.py:65:38: E231 missing whitespace after ','
+game.py:68:32: E231 missing whitespace after ','
+game.py:69:15: E231 missing whitespace after ','
+game.py:69:32: E231 missing whitespace after ','
+game.py:69:41: E231 missing whitespace after ','
+game.py:69:54: E231 missing whitespace after ','
+game.py:69:63: E231 missing whitespace after ','
+game.py:69:73: E231 missing whitespace after ','
+game.py:69:80: E501 line too long (115 > 79 characters)
+game.py:69:87: E231 missing whitespace after ','
+game.py:69:100: E231 missing whitespace after ','
+game.py:70:14: E231 missing whitespace after ','
+game.py:70:16: E225 missing whitespace around operator
+game.py:70:25: E231 missing whitespace after ','
+game.py:71:19: E275 missing whitespace after keyword
+game.py:71:21: E225 missing whitespace around operator
+game.py:71:24: E225 missing whitespace around operator
+game.py:71:35: E225 missing whitespace around operator
+game.py:71:38: E225 missing whitespace around operator
+game.py:71:58: E225 missing whitespace around operator
+game.py:73:18: E225 missing whitespace around operator
+game.py:78:44: E231 missing whitespace after ','
+game.py:78:48: E231 missing whitespace after ','
+game.py:78:80: E501 line too long (93 > 79 characters)
+game.py:85:1: E302 expected 2 blank lines, found 1
+game.py:108:41: E701 multiple statements on one line (colon)
+game.py:109:72: E701 multiple statements on one line (colon)
+game.py:109:80: E501 line too long (85 > 79 characters)
+game.py:113:20: E701 multiple statements on one line (colon)
+game.py:118:13: E225 missing whitespace around operator
+game.py:118:17: E225 missing whitespace around operator
+game.py:118:28: E225 missing whitespace around operator
+game.py:118:32: E225 missing whitespace around operator
+game.py:129:29: E231 missing whitespace after ','
+game.py:129:32: E231 missing whitespace after ','
+game.py:136:57: E231 missing whitespace after ','
+game.py:136:61: E231 missing whitespace after ','
+game.py:136:65: E231 missing whitespace after ','
+game.py:136:80: E501 line too long (101 > 79 characters)
+game.py:136:98: E231 missing whitespace after ','
+game.py:138:49: E231 missing whitespace after ','
+game.py:138:54: E231 missing whitespace after ','
+game.py:138:58: E231 missing whitespace after ','
+game.py:138:62: E231 missing whitespace after ','
+game.py:138:79: E231 missing whitespace after ','
+game.py:138:80: E501 line too long (100 > 79 characters)
+game.py:138:84: E231 missing whitespace after ','
+game.py:140:28: E231 missing whitespace after ','
+game.py:140:38: E231 missing whitespace after ','
+game.py:140:44: E231 missing whitespace after ','
+game.py:141:37: E231 missing whitespace after ','
+game.py:141:41: E231 missing whitespace after ','
+game.py:141:44: E231 missing whitespace after ','
+game.py:141:48: E231 missing whitespace after ','
+game.py:142:71: E231 missing whitespace after ','
+game.py:142:75: E231 missing whitespace after ','
+game.py:142:80: E501 line too long (80 > 79 characters)
+game.py:143:28: E231 missing whitespace after ','
+game.py:143:31: E231 missing whitespace after ','
+game.py:145:15: E225 missing whitespace around operator
+game.py:145:37: E231 missing whitespace after ','
+game.py:145:48: E231 missing whitespace after ','
+game.py:146:23: E231 missing whitespace after ','
+game.py:146:25: E231 missing whitespace after ','
+game.py:146:27: E231 missing whitespace after ','
+game.py:147:32: E231 missing whitespace after ','
+game.py:147:35: E231 missing whitespace after ','
+game.py:148:16: E225 missing whitespace around operator
+game.py:148:61: E231 missing whitespace after ','
+game.py:148:66: E231 missing whitespace after ','
+game.py:148:70: E231 missing whitespace after ','
+game.py:149:16: E225 missing whitespace around operator
+game.py:149:57: E231 missing whitespace after ','
+game.py:149:62: E231 missing whitespace after ','
+game.py:149:67: E231 missing whitespace after ','
+game.py:149:71: E231 missing whitespace after ','
+game.py:150:33: E231 missing whitespace after ','
+game.py:150:62: E231 missing whitespace after ','
+game.py:151:33: E231 missing whitespace after ','
+game.py:151:62: E231 missing whitespace after ','
+game.py:155:16: E225 missing whitespace around operator
+game.py:157:20: E225 missing whitespace around operator
+game.py:163:1: E305 expected 2 blank lines after class or function definition, found 1
