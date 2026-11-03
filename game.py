@@ -15,11 +15,14 @@ SPEED = 3
 def _carve_rooms(grid):
     """Carve up to eight non-overlapping rectangular rooms into the grid."""
     rooms = []
+    # Bandit B311: the PRNG only picks room sizes/positions for gameplay.
+    # Nothing here is a secret, token or key, so a cryptographic RNG is not
+    # needed; the check is skipped for these four lines only.
     for _ in range(8):
-        w = random.randint(3,6)
-        h = random.randint(3,5)
-        x = random.randint(1, COLS-w-1)
-        y = random.randint(1, ROWS-h-1)
+        w = random.randint(3,6)  # nosec B311
+        h = random.randint(3,5)  # nosec B311
+        x = random.randint(1, COLS-w-1)  # nosec B311
+        y = random.randint(1, ROWS-h-1)  # nosec B311
         room = pygame.Rect(x, y, w, h)
         overlap = any(room.inflate(2,2).colliderect(r) for r in rooms)
         if not overlap:
